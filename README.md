@@ -22,6 +22,7 @@ This project demonstrates the practical strengths and limitations of predictive 
 Overall, this repository showcases a complete and reproducible machine learning pipeline, including data exploration, preprocessing, model training, evaluation, and interpretation. The project serves as a clear example of how machine learning techniques can be applied to health and fitness data to extract insights and support predictive analysis, making it suitable for academic submissions, portfolio projects, and introductory applied machine learning demonstrations.
 
 # OUTPUT
+<img width="1103" height="470" alt="Image" src="https://github.com/user-attachments/assets/d14b889a-5331-409f-ac8e-58ff7f7efb80" />
 
 
 
