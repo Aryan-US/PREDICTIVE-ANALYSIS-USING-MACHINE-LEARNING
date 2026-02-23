@@ -24,5 +24,7 @@ Overall, this repository showcases a complete and reproducible machine learning 
 # OUTPUT
 <img width="1103" height="470" alt="Image" src="https://github.com/user-attachments/assets/d14b889a-5331-409f-ac8e-58ff7f7efb80" />
 
+<img width="974" height="221" alt="Image" src="https://github.com/user-attachments/assets/05a78ebc-1ef9-4955-9ab3-d0928f60de04" />
+
 
 
